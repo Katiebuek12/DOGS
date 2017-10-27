@@ -1,0 +1,15 @@
+body{
+  font-family: Arial, Verdana, sans-serif;
+}
+
+.cute{
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+.dog{
+  border-radius: 8px;
+  display: block;
+  margin: auto;
+  width: 50%;
+}
